@@ -1,0 +1,49 @@
+====================
+Yakov_22dima_1 Date: Wed May 18 2022 12:06:50 GMT+0300
+ getRandomInt: 6
+ getRandomInt: 8
+ getRandomInt: 9
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
+====================
+i: 0 name: Yakov_22_tmp_baby_1.xml
+i: 1 name: Yakov_22_tmp_yakov_1.xml
+i: 2 name: Yakov_22_tmp_sergey_1.xml
+i: 3 name: Yakov_22_tmp_igor_1.xml
+i: 4 name: Yakov_22_tmp_matvey_1.xml
+i: 5 name: Yakov_22_tmp_dima_1.xml
+i: 6 name: Yakov_22_tmp_arcady_1.xml
+====================
+i: 0 name: baby
+i: 1 name: yakov
+i: 2 name: sergey
+i: 3 name: igor
+i: 4 name: matvey
+i: 5 name: dima
+i: 6 name: arcady
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Yakov\\xml\\aeYakov2022_dima_1.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Yakov\\xml\\aeYakov2022_dima_1.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Yakov/Portret/improved_photo%20(45)-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Yakov/Kids_Association/improved_photo-s4.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Alex/Kids/IMG-20201011-WA0016.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Yakov/Kids_Association/improved_photo%20(1a)-s-1.psd</pathurl>
+</Stuff>
+filePathUrl.length= 4
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Yakov\\Portret\\improved_photo%20(45)-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Yakov\\Kids_Association\\improved_photo-s4.psd
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Alex\\Kids\\IMG-20201011-WA0016.jpg
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Yakov\\Kids_Association\\improved_photo%20(1a)-s-1.psd
+!! Not found findItem 
+====================

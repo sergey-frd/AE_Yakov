@@ -1,0 +1,106 @@
+====================
+Yakov_22matvey_1 Date: Wed May 18 2022 15:53:28 GMT+0300
+ getRandomInt: 6
+ getRandomInt: 8
+ getRandomInt: 2
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+====================
+i: 0 name: Yakov_22_tmp_baby_1.xml
+i: 1 name: Yakov_22_tmp_yakov_1.xml
+i: 2 name: Yakov_22_tmp_sergey_1.xml
+i: 3 name: Yakov_22_tmp_igor_1.xml
+i: 4 name: Yakov_22_tmp_matvey_1.xml
+i: 5 name: Yakov_22_tmp_dima_1.xml
+i: 6 name: Yakov_22_tmp_arcady_1.xml
+====================
+i: 0 name: baby
+i: 1 name: yakov
+i: 2 name: sergey
+i: 3 name: igor
+i: 4 name: matvey
+i: 5 name: dima
+i: 6 name: arcady
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Yakov\\xml\\aeYakov2022_matvey_1.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Yakov\\xml\\aeYakov2022_matvey_1.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Yakov/Kids_Association/base/improved_photo%20(29)-s2.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/dv_sf/Sf_1/9/20190819_164029%20(2).jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/Kids/V1-0026_Burn2d00000001.png</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/Kids/05092000_9549.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/dv_sf/Sf_1/01_Futage/Sergey_Irina_Matv_Xsn/IMG_9185.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/dv_sf/Sf_1/Baby/1565865704281-d7855b6b-fa72-4cc5-9169-05721726f900.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_for_DR/spr/foto_60a-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Dima/2022_for_DR/spr/foto_65a-spr.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/dv_sf/Sf_1/4a/1_sent_Matv_Krist_b.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/dv_sf/Sf_1/4a/16A.JPG</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/dv_sf/Sf_1/4a/matm_ziggi_58a.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Matv20/Kids/V1-0135_Matv20_1_0.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4555.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF3984.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4067.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4068.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4116.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4148.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4155.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4204.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4225.jpg</pathurl>
+  <pathurl>file://localhost/F%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_Weekend%20pkp%20rennes/Lorenzbar/DSCF4228.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Yakov/Portret/improved_photo%20-%202020-04-12T192530.738%20(2)b-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 23
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Yakov\\Kids_Association\\base\\improved_photo%20(29)-s2.jpg
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\dv_sf\\Sf_1\\9\\20190819_164029%20(2).jpg
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\Kids\\V1-0026_Burn2d00000001.png
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\Kids\\05092000_9549.jpg
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\dv_sf\\Sf_1\\01_Futage\\Sergey_Irina_Matv_Xsn\\IMG_9185.jpg
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\dv_sf\\Sf_1\\Baby\\1565865704281-d7855b6b-fa72-4cc5-9169-05721726f900.jpg
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\foto_60a-spr.jpeg
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Dima\\2022_for_DR\\spr\\foto_65a-spr.jpeg
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\dv_sf\\Sf_1\\4a\\1_sent_Matv_Krist_b.jpg
+!! Not found findItem 
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\dv_sf\\Sf_1\\4a\\16A.JPG
+!! Not found findItem 
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\dv_sf\\Sf_1\\4a\\matm_ziggi_58a.jpg
+!! Not found findItem 
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Matv20\\Kids\\V1-0135_Matv20_1_0.jpg
+!! Not found findItem 
+ i= 13  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4555.jpg
+!! Not found findItem 
+ i= 14  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF3984.jpg
+!! Not found findItem 
+ i= 15  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4067.jpg
+!! Not found findItem 
+ i= 16  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4068.jpg
+!! Not found findItem 
+ i= 17  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4116.jpg
+!! Not found findItem 
+ i= 18  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4148.jpg
+!! Not found findItem 
+ i= 19  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4155.jpg
+!! Not found findItem 
+ i= 20  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4204.jpg
+!! Not found findItem 
+ i= 21  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4225.jpg
+!! Not found findItem 
+ i= 22  filePathUrl=> F%3aGit\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_Weekend%20pkp%20rennes\\Lorenzbar\\DSCF4228.jpg
+!! Not found findItem 
+ i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Yakov\\Portret\\improved_photo%20-%202020-04-12T192530.738%20(2)b-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+!! Not found findItem 
+====================
